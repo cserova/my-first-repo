@@ -1,28 +1,31 @@
-# This is a large heading
+# Catherine Serova
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+Go to school in Philly, live in North Jersey
 
-- This is
-- an unordered
-- list
+### Binging habits
 
-1. This is
-2. an ordered
-3. list
+Favorite shows:
 
-Here is `some code` in the middle of a sentence.
+- *The Office*
+- *Westworld*
+- *How I Met Your Mother*
 
-```
-This is
-a block
-of code
-```
+### Favorite foods:
 
-Here is how you make [a link](https://www.wikipedia.org/).
+1. Tacos
+2. Sushi
+3. Cake
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+### Contact
+
+Find me [on LinkedIn](https://www.linkedin.com/in/catherine-serova-a2bb58152/)
+
+
+
+
+
+
+
+
